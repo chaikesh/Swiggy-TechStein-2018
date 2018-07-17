@@ -1,5 +1,6 @@
 # Swiggy-TechStein-2018
 Swiggy TechStein Open Hackathon 2018
+we built a dish based food recommendation rather than restaurant based recommendation system. 
 
 some recommendation based on previous order
 
