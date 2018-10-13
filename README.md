@@ -17,7 +17,6 @@ Details about the dataset and results of preprocessing to feed into our model ha
 NOTE:Each item-id mentioned along with a image is unique to a restaurant and an item. Exact name of restaurant and item corresponding to given item-id were not disclosed to us by swiggy.
 
 
-[embed]https://github.com/chaikesh/Swiggy-TechStein-2018/blob/master/final_presentation.pdf[/embed]
 
 login page
 ![swiggy login-1](https://user-images.githubusercontent.com/32159487/42841529-feafad94-8a27-11e8-88cc-90a15a49bed4.png)
